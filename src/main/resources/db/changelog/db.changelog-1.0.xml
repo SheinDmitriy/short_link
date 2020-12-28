@@ -55,4 +55,16 @@
         </createTable>
     </changeSet>
 
+    <changeSet id="1.0.2" author="dmitriy.shein">
+        <createTable tableName="user_roles">
+
+            <column name="user_id" type="BIGINT"/>
+
+            <column name="role_id" type="BIGINT"/>
+
+        </createTable>
+    </changeSet>
+
+
+
 </databaseChangeLog>
