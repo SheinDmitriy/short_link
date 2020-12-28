@@ -1,4 +1,4 @@
-package shein.dmitriy.short_link.model;
+package shein.dmitriy.short_link.entity;
 
 public enum Status {
     ACTIVE, NOT_ACTIVE, DELETED

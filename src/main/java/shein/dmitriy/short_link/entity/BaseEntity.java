@@ -1,4 +1,4 @@
-package shein.dmitriy.short_link.model;
+package shein.dmitriy.short_link.entity;
 
 import lombok.Data;
 import org.springframework.data.annotation.CreatedDate;
